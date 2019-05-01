@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><productos>
+	<producto>
+		<nombre>Asus R510VX</nombre>
+		<precio>987654321</precio>
+		<cantidad>33333</cantidad>
+		<descripcion>Asus, la descripcion</descripcion>
+	</producto>
+	<producto>
+		<nombre>MacBook Air
+		</nombre>
+		<precio>919
+		</precio>
+		<cantidad>5
+		</cantidad>
+		<descripcion>Nuestro Mac más popular viene cargado de razones para enamorarte otra vez. El nuevo MacBook Air es más fino y ligero que nunca y está disponible en plata, gris espacial y oro. Incorpora una espectacular pantalla Retina, Touch ID, teclado de última generación y trackpad Force Touch. Su estructura está fabricada en aluminio 100 % reciclado, lo que lo convierte en el Mac más ecológico hasta la fecha.1 Además, su batería aguanta de sol a sol. Resumiendo, el nuevo MacBook Air es el portátil perfecto para hacer de todo, todo el día. Ponlo a prueba.</descripcion>
+	</producto>
+</productos>
